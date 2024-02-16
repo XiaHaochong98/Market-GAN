@@ -1,0 +1,1 @@
+from .market_dynamics_labeling.model import slice_and_merge_model
