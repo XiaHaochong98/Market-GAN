@@ -53,6 +53,6 @@ You may download the [model checkpoint](https://entuedu-my.sharepoint.com/:f:/g/
 
 # Reference
 We thank these projects in helping the development of Market-GAN:
-[Codebase for "Time-series Generative Adversarial Networks (TimeGAN)"](https://github.com/jsyoon0823/TimeGAN?tab=readme-ov-file#codebase-for-time-series-generative-adversarial-networks-timegan)
-[timegan-pytorch](https://github.com/birdx0810/timegan-pytorch)
+[Codebase for "Time-series Generative Adversarial Networks (TimeGAN)"](https://github.com/jsyoon0823/TimeGAN?tab=readme-ov-file#codebase-for-time-series-generative-adversarial-networks-timegan) \
+[timegan-pytorch](https://github.com/birdx0810/timegan-pytorch) \
 [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library)
