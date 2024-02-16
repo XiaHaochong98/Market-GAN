@@ -44,10 +44,10 @@ You may download the [model checkpoint](https://entuedu-my.sharepoint.com/:f:/g/
 (1) Export the model information for inference by running ``` sh DJI_V2_RT_info_export.sh ``` \
 (2) Generate the data by running ``` sh run_MarketGAN.sh ``` in the /service folder \
 (3) Move the generated data to downstream_tasks/data/downstream_tasks/data \
-(4) Run scripts for different model like ``` sh run_MarketGAN.sh ``` in downstream_tasks/ \
+(4) Run scripts for different forecasting models like ``` sh run_MarketGAN.sh ``` in downstream_tasks/ \
 ## 2.Prepare orginal data for the downstream tasks
 (1) Run ``` sh DJI.sh ```  in downstream_tasks/data/ \
-(2) Run scripts for different model like ``` sh run_real.sh ``` in downstream_tasks/ \
+(2) Run scripts for different forecasting models like ``` sh run_real.sh ``` in downstream_tasks/ \
 
 # Reference
 We thank these projects in helping the development of Market-GAN: \
